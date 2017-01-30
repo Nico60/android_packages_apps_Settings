@@ -256,4 +256,11 @@
     <string name="increasing_ring_min_volume_title">Start volume</string>
     <string name="increasing_ring_ramp_up_time_title">Ramp-up time</string>
 
+    <!-- Image cropper -->
+    <string name="crop_image_activity_title"></string>
+    <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
+    <string name="crop_image_menu_rotate_right">Rotate</string>
+    <string name="crop_image_menu_crop">Crop</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+
 </resources>

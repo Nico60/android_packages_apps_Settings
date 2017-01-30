@@ -3242,6 +3242,10 @@
             </intent-filter>
         </activity>
 
+        <!-- Image cropper -->
+        <activity android:name=".cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat"/>
+
         <!-- Icon pack grid -->
         <activity android:name="com.dirtyunicorns.dutweaks.IconPackGridActivity"
                 android:excludeFromRecents="true">
